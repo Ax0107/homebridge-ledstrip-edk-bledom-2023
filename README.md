@@ -10,7 +10,7 @@ To run without root access, go to homebridge terminal and type ```sudo setcap ca
 
 ## Installation 
 
-`npm i @avshupov/homebridge-ledstrip-ble` in homebridge terminal
+`npm i @ax0107/homebridge-ledstrip-ble` in homebridge terminal
  
 You also need to start python script:
 `python3 server.py`
